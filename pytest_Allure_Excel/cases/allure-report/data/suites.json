@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "login",
+    "children" : [ {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "Test_Login",
+        "children" : [ {
+          "name" : "test_UI_0001[cs-001]",
+          "uid" : "3257f609194ba407",
+          "parentUid" : "45de0fd67b00aa70857a6cc05b7a80a8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1652864485761,
+            "stop" : 1652864487432,
+            "duration" : 1671
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['cs-001', '123456789', '1234560', '1234', 'passed']" ]
+        }, {
+          "name" : "test_UI_0001[cs-002]",
+          "uid" : "f2a30f616bd54c8a",
+          "parentUid" : "45de0fd67b00aa70857a6cc05b7a80a8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1652864492657,
+            "stop" : 1652864494217,
+            "duration" : 1560
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['cs-002', '123456789', '1234560', 'abcd', 'passed']" ]
+        }, {
+          "name" : "test_UI_0001[cs-003]",
+          "uid" : "2dbfe4194deddefa",
+          "parentUid" : "45de0fd67b00aa70857a6cc05b7a80a8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1652864500310,
+            "stop" : 1652864502084,
+            "duration" : 1774
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['cs-003', '123456789', '1234560', 'abcd', 'passed']" ]
+        }, {
+          "name" : "test_UI_0001[cs-004]",
+          "uid" : "fc6748cadf2a4114",
+          "parentUid" : "45de0fd67b00aa70857a6cc05b7a80a8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1652864507147,
+            "stop" : 1652864508908,
+            "duration" : 1761
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "['cs-004', '123456789', '1234560', 'abcd', 'passed']" ]
+        } ],
+        "uid" : "45de0fd67b00aa70857a6cc05b7a80a8"
+      } ],
+      "uid" : "d23697ec846eba12ad0b12a7bdf06555"
+    } ],
+    "uid" : "e294307b5e869e9b2181239eb0874d42"
+  } ]
+}
